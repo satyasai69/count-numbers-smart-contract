@@ -1,4 +1,4 @@
-# testsoildity
+# count numbers smart contract
 
 just for fun depoly a contract in goerli testnet
 
